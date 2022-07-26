@@ -3,4 +3,4 @@ This repository is the second example for demonstrating splice method with array
 
 ### References
 
-- [MDN array splice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+- [MDN: JS splice function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
